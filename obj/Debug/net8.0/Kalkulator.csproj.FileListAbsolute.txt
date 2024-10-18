@@ -1,0 +1,28 @@
+C:\Koding\Kalkulator\bin\Debug\net8.0\Kalkulator.exe
+C:\Koding\Kalkulator\bin\Debug\net8.0\Kalkulator.deps.json
+C:\Koding\Kalkulator\bin\Debug\net8.0\Kalkulator.runtimeconfig.json
+C:\Koding\Kalkulator\bin\Debug\net8.0\Kalkulator.dll
+C:\Koding\Kalkulator\bin\Debug\net8.0\Kalkulator.pdb
+C:\Koding\Kalkulator\obj\Debug\net8.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koding\Kalkulator\obj\Debug\net8.0\Kalkulator.AssemblyInfoInputs.cache
+C:\Koding\Kalkulator\obj\Debug\net8.0\Kalkulator.AssemblyInfo.cs
+C:\Koding\Kalkulator\obj\Debug\net8.0\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Koding\Kalkulator\obj\Debug\net8.0\Kalkulator.dll
+C:\Koding\Kalkulator\obj\Debug\net8.0\refint\Kalkulator.dll
+C:\Koding\Kalkulator\obj\Debug\net8.0\Kalkulator.pdb
+C:\Koding\Kalkulator\obj\Debug\net8.0\Kalkulator.genruntimeconfig.cache
+C:\Koding\Kalkulator\obj\Debug\net8.0\ref\Kalkulator.dll
+C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\bin\Debug\net8.0\Kalkulator.exe
+C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\bin\Debug\net8.0\Kalkulator.deps.json
+C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\bin\Debug\net8.0\Kalkulator.runtimeconfig.json
+C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\bin\Debug\net8.0\Kalkulator.dll
+C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\bin\Debug\net8.0\Kalkulator.pdb
+C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Kalkulator.AssemblyInfoInputs.cache
+C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Kalkulator.AssemblyInfo.cs
+C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Kalkulator.dll
+C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\obj\Debug\net8.0\refint\Kalkulator.dll
+C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Kalkulator.pdb
+C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Kalkulator.genruntimeconfig.cache
+C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\obj\Debug\net8.0\ref\Kalkulator.dll
