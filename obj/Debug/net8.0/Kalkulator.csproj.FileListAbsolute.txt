@@ -26,3 +26,4 @@ C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\obj\Debug\net
 C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Kalkulator.pdb
 C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Kalkulator.genruntimeconfig.cache
 C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\obj\Debug\net8.0\ref\Kalkulator.dll
+C:\Koding\Min Kalkulator Oppgave C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Kalkulator.sourcelink.json

@@ -14,11 +14,4 @@ public interface ICalculator
     /// <param name="b">Andre tall.</param>
     /// <returns>Forskjellen mellom to tall.</returns>
     public double Subtract(double a, double b);
-    /// <summary>
-    /// Multipliserer to tall.
-    /// </summary>
-    /// <param name="a">Første tall.</param>
-    /// <param name="b">Andre tall.</param>
-    /// <returns>Produktet av to tall.</returns>
- 
 }
